@@ -7,7 +7,7 @@ services:
 
 env:
   global:
-    - DOCKERHUB="taisun/nzbget-mod"
+    - DOCKERHUB="linuxserver/tautulli"
 
 jobs:
   include:
